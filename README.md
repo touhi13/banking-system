@@ -58,7 +58,7 @@ This is a banking system built with Laravel, which supports deposit and withdraw
     ```bash
     php artisan serve
 
-13. Access the application in your browser at http://localhost:8000.
+13. Access the application in your browser at http://127.0.0.1:8000.
 
     * Use the provided routes to interact with the banking system:
 
