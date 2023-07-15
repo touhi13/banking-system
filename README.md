@@ -7,7 +7,7 @@ This is a banking system built with Laravel, which supports deposit and withdraw
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/touhi13/banking-system.git>
 
 2. Switch to the dev.1.0.0 branch:
 
